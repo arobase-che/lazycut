@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/arobase-che/lazycut/ui"
-	"github.com/arobase-che/lazycut/video"
+	"github.com/emin-ozata/lazycut/ui"
+	"github.com/emin-ozata/lazycut/video"
 	"os"
 
 	tea "github.com/charmbracelet/bubbletea"

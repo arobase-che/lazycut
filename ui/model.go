@@ -2,8 +2,8 @@ package ui
 
 import (
 	"fmt"
-	"github.com/arobase-che/lazycut/ui/panels"
-	"github.com/arobase-che/lazycut/video"
+	"github.com/emin-ozata/lazycut/ui/panels"
+	"github.com/emin-ozata/lazycut/video"
 	"strings"
 	"time"
 
